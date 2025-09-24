@@ -1,0 +1,20 @@
+.container{
+  background-color: rgba(124, 197, 210, 0.854);
+  display: grid;
+  grid-template-columns: repeat(1,1fr);
+  padding: 60px;
+  row-gap: 40px;
+  border-radius:10px;
+}
+
+button{
+  background-color:rgba(67, 129, 143, 0.842) ;
+  padding:10px;
+  border-radius: 5px;
+  font-size: larger;
+}
+
+button:hover{
+  border-color:
+  antiquewhite;
+}
